@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hi! My name is Eli and I am currently studying computer science and game development.
 
 <!--
 **Enator18/Enator18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
