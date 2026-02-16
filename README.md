@@ -1,5 +1,5 @@
 ## Hi! My name is Eli!
-I am a second year computer science and game development student at Northeastern University. I am passionate about graphics programming, game development, and low level programming. 
+I am a second year computer science and game development student at Northeastern University. I am passionate about graphics programming, game development, and low level programming. I have worked on many projects in various different tools and game engines and I like learning about new tools.
 
 <!--
 **Enator18/Enator18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
